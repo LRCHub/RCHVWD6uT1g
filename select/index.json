@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "風のララバイ",
+  "base_artist": "宮里久美",
+  "createdAt": "2026-03-26T19:53:05.413677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風のララバイ",
+      "artist": "宮里久美",
+      "has_synced": true,
+      "path": "select/01_風のララバイ_宮里久美.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風のララバイ",
+      "artist": "宮里 久美",
+      "has_synced": false,
+      "path": "select/pl_01_風のララバイ_宮里_久美.txt"
+    }
+  ]
+}
